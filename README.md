@@ -1,2 +1,2 @@
 # dsa
-Data structures nad algorithems
+Data structures and algorithems
